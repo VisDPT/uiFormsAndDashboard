@@ -1,5 +1,6 @@
 # uiFormsAndDashboard
 
-A simple Form & UI Page I created for colleagues.
+A simple Form & UI Page.
+Enjoy! 
 
-Enjoy! ~Vis
+~Vis
