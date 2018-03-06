@@ -1,6 +1,6 @@
 # uiFormsAndDashboard
 
-A simple Form & UI Page.
+A simple Form & Dashboard UI Page that you can hook up to your backend!
 Enjoy! 
 
 ~Vis
